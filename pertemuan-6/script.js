@@ -11,7 +11,6 @@ function looping(a) {
   }
 }
 looping(100);
-
 function pertambahan(a, b) {
   console.log(a + b);
 }
@@ -33,4 +32,4 @@ pengurangan(10, 5);
 function menghitungLuasPersegi(a) {
   console.log(a ** 2);
 }
-menghitungLuasPersegi(10)
+menghitungLuasPersegi(10);

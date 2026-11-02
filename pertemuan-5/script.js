@@ -11,13 +11,13 @@ for (let a = 10; a >= 1; a--) {
 // studi case
 
 // mobil grab 1-10 dalam keaddan baik
-// for (let b = 1; b <= 10; b++) {
-//   if (b === 9) {
-//     console.log("mobil grab ke " + b + " sedang di bengkel");
-//   } else {
-//     console.log("mobil grab ke " + b + " Dalam keadaan baik");
-//   }
-// }
+for (let b = 1; b <= 10; b++) {
+  if (b === 9) {
+    console.log("mobil grab ke " + b + " sedang di bengkel");
+  } else {
+    console.log("mobil grab ke " + b + " Dalam keadaan baik");
+  }
+}
 for (let b = 1; b <= 10; b++) {
   if (b === 3) {
     console.log("mobil grab ke " + b + " rusak");
